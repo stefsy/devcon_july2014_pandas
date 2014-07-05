@@ -1,0 +1,21 @@
+{
+    "name": "Trachaeophyta",
+    "children" : [
+        {"name":"Lycopodiophytes"},
+        {
+            "name": "Euphyllophytes",
+            "children" : [
+                {"name" : "Spermatophytes"},
+                {"name": "Ferns",
+                    "children" : [
+                        {"name": "Psilotopsida"},
+                        {"name": "Equisetopsida"},
+                        {"name": "Marattiopsida"},
+                        {"name": "Polypodiopsida"}
+                    ]
+                }
+            ]
+        }
+    ]
+
+}
